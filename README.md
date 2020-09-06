@@ -1,11 +1,6 @@
-# auth_golang_vue
-Simple auth made with golang and Vue.js<br>
-you can clone this by running<br>
-go get github.com/wafiseptya/auth_golang_vue
-
-import the database structure to your local machine.<br>
-setup the database connection in .env file.<br>
-to run Go server simply with 'go run main.go'<br>
-
-to run Vue.js app, change directory to apps and run<br>
-'yarn serve'
+# Create Restful API With GO from TVS File
+Simple API made with golang and Vue.js<br>
+Learn how to create restful API with GO language from TVS file extension<br>
+And then displayed in table form using VUE with Vuetify template.<br>
+<br>
+Thank You, and Happy Coding :)<br>
